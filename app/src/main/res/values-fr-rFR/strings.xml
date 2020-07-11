@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="language">Thank you</string>
+    <string name="data">
+Android est un système d exploitation mobile basé sur une version modifiée du noyau Linux et d autres logiciels open source, conçu principalement pour les appareils mobiles à écran tactile tels que les smartphones et les tablettes. Android est développé par un consortium de développeurs connu sous le nom d Open Handset Alliance et commercialisé par Google. Il a été dévoilé en 2007, avec le premier appareil Android commercial lancé en septembre 2008
+    </string>
+    <string name="exit">
+Sortie</string>
+
+    <string-array name="items">
+        <item>Select Languages</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>
